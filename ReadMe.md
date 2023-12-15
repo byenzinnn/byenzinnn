@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Intermediário em C, Java, CSS, HTML e Python.<br>👯 Estou a procura de um emprego para evoluir.<br>🌱 Atualmente estudando C# e Javascript<br>💬 Gosto muito de conversar com as pessoas que agregam para o meu desenvolvimento.
+🔭 Intermediário em Java, CSS, HTML e Python.<br>👯 Estou a procura de um emprego para evoluir.<br>🌱 Atualmente estudando C# e Javascript<br>💬 Gosto muito de conversar com as pessoas que agregam para o meu desenvolvimento.
 
 
 ## 🌐 Redes Sociais:
